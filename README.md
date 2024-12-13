@@ -17,6 +17,7 @@ This model predicts house rental prices in the Colombo district of Sri Lanka. It
 - **Seaborn**
 - **XGBoost**
 - **NumPy**
+- **Beautiful Soup**
 
 ## File Organization 📂
 - `sl_rent_price_data.csv` (in the `data/` folder): The dataset used for training the model.
