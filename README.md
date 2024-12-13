@@ -1,4 +1,4 @@
-# Colombo House Renting Price Prediction Model 🏠📊
+# Colombo House Rental Price Prediction Model 🏠📊
 
 ## Project Overview 🌍
 This model predicts house rental prices in the Colombo district of Sri Lanka. It aims to provide accurate rental price predictions using machine learning techniques.
