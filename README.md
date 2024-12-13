@@ -38,6 +38,7 @@ This model predicts house rental prices in the Colombo district of Sri Lanka. It
   - **House size**
   - **Land size**
   - **Suburb of Colombo**
+  - **Monthly Rental**
 
 ## Model Description 🤖
 - The model uses **Random Forest** regression, as it provided the best performance during training.
