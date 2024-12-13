@@ -30,7 +30,7 @@ This model predicts house rental prices in the Colombo district of Sri Lanka. It
 3. Follow the instructions in the notebook to make predictions.
 
 ## Data Sources 📥
-- The data was scraped from publicly posted advertisements on Sri Lankan classified websites using the BeautifulSoup library.
+- The data was scraped from publicly posted advertisements on Sri Lankan classified websites (from October 2024 onwards) using the BeautifulSoup library.
 - The dataset includes the following columns:
   - **Advertisement posted date**
   - **No of bedrooms**
