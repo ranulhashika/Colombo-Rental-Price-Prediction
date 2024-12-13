@@ -3,3 +3,5 @@ data/data_scrape.ipynb
 data/link_scrape.ipynb
 data/sl_rent_price_data_full.csv
 data/Backup Datasets/
+.ipynb_checkpoints/
+data/.ipynb_checkpoints/
