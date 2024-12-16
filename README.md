@@ -5,7 +5,7 @@ This model predicts house rental prices in the Colombo district of Sri Lanka. It
 
 ## Key Features ✨
 - Predicts house rental prices based on various factors.
-- Achieved an **R²** value of **0.78**.
+- Achieved an **R²** value of **0.79**.
 - The dataset was scraped from publicly posted advertisements on Sri Lankan classified websites.
 
 ## Tech Stack 🛠️
